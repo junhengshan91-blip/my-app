@@ -1,2 +1,2 @@
 # my-app
-[![アプリをダウンロード](https://i.imgur.com/abc123.png)](https://yourapp.onelink.me/xxxx)
+[![アプリをダウンロード](https://imgur.com/a/ZHgJu6S)](https://1link.jp/aidayoo)
